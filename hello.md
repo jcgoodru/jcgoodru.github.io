@@ -3,7 +3,7 @@
 <head></head>
 <body>
   <a href="http://google.com">Google</a>
-  <p>hi</p>
+  <p style="color:white; backgground-color:green;">hi</p>
   <p>hello</p>
 </body>
 </html>
